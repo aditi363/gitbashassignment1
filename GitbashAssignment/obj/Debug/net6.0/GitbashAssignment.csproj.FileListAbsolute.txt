@@ -1,0 +1,15 @@
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\bin\Debug\net6.0\GitbashAssignment.exe
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\bin\Debug\net6.0\GitbashAssignment.deps.json
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\bin\Debug\net6.0\GitbashAssignment.runtimeconfig.json
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\bin\Debug\net6.0\GitbashAssignment.dll
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\bin\Debug\net6.0\GitbashAssignment.pdb
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.AssemblyInfo.cs
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.dll
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\refint\GitbashAssignment.dll
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.pdb
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\GitbashAssignment.genruntimeconfig.cache
+C:\Users\saini\source\repos\GitbashConnection\GitbashAssignment\GitbashAssignment\obj\Debug\net6.0\ref\GitbashAssignment.dll
